@@ -10,7 +10,7 @@ CREATE TABLE Alumno(
 -- Hola soy {su nombre } y debo crear 5 insert into
 --insert into Alumno VALUES (16111,'Juanito Perez', 0)
 
-
+--Victor pone tu nombre
 insert into Alumno(Rut,Nombre,Sexo) Values(182386162,'Victor Hott',1)
 insert into Alumno(Rut,Nombre,Sexo) Values(172971059,'Cyntia Aravena',0)
 insert into Alumno(Rut,Nombre,Sexo) Values(71129705,'Victor Hott Tejeda',1)
