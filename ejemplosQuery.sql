@@ -17,6 +17,13 @@ insert into Alumno(Rut,Nombre,Sexo) Values(71129705,'Victor Hott Tejeda',1)
 insert into Alumno(Rut,Nombre,Sexo) Values(165879457,'Paola Hott',0)
 insert into Alumno(Rut,Nombre,Sexo) Values(89240719,'Angelica Diaz',0)
 
+--Soy Victor Contreras y copi+e lo de arriba
+insert into Alumno(Rut,Nombre,Sexo) Values(182386162,'Victor Hott',1)
+insert into Alumno(Rut,Nombre,Sexo) Values(172971059,'Cyntia Aravena',0)
+insert into Alumno(Rut,Nombre,Sexo) Values(71129705,'Victor Hott Tejeda',1)
+insert into Alumno(Rut,Nombre,Sexo) Values(165879457,'Paola Hott',0)
+insert into Alumno(Rut,Nombre,Sexo) Values(89240719,'Angelica Diaz',0)
+
 
 --Hola soy Felipe Silva y debo crear 5 Insert into
 Insert into Alumno (
