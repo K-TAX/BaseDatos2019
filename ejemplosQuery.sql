@@ -9,3 +9,34 @@ CREATE TABLE Alumno(
 );
 -- Hola soy {su nombre } y debo crear 5 insert into
 --insert into Alumno VALUES (16111,'Juanito Perez', 0)
+
+--Hola soy Felipe Silva y debo crear 5 Insert into
+Insert into Alumno (
+  Rut,
+  Nombre,
+  Sexo
+) values (
+  '18.579.338-9',
+  'Felipe Silva',
+  1
+), (
+  '1-9',
+  'Eduard Sanchez',
+  1
+), (
+  '10.851.712-3',
+  'Patricio Silva',
+  1
+), (
+  '17.651.823.8',
+  'Camila Bustamante',
+  0
+), (
+  '19.191.563-5',
+  'Anita Henriquez',
+  0
+), (
+  '15.165.161-k',
+  'Test User',
+  3
+)
