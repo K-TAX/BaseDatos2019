@@ -22,6 +22,13 @@ insert into Alumno VALUES (16115,'""""""""""""""', 4)
 
 --insert into Alumno VALUES (16111,'Juanito Perez', 0)
 
+insert into Alumno value(18.493.000-5,'Jose Vargas',1)
+insert into Alumno value(18.487.995-8,'Alex Sotomayor',1)
+insert into Alumno value(17.849.777-8,'Anita Atero',0)
+insert into Alumno value(16.777.888-7,'Juanita Vera',1)
+insert into Alumno value(19.666.666-6,'Marcos Brabo',1)
+
+
 --Victor pone tu nombre
 insert into Alumno(Rut,Nombre,Sexo) Values(182386162,'Victor Hott',1)
 insert into Alumno(Rut,Nombre,Sexo) Values(172971059,'Cyntia Aravena',0)
@@ -66,5 +73,4 @@ Insert into Alumno (
   '15.165.161-k',
   'Test User',
   3
-)
-
+) 
