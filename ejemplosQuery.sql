@@ -11,12 +11,12 @@ CREATE TABLE Alumno(
 
 --insert into Alumno VALUES (16111,'Juanito Perez', 0) 
 
----hola soy cristian---
+---hola soy cristian2---
 insert into Alumno VALUES (16111,'Juanito Perez', 0)
-insert into Alumno VALUES (16112,'Juanito Perez', 1)
-insert into Alumno VALUES (16113,'Juanito Perez', 2)
-insert into Alumno VALUES (16114,'Juanito Perez', 3)
-insert into Alumno VALUES (16115,'Juanito Perez', 4)
+insert into Alumno VALUES (16112,'#############', 1)
+insert into Alumno VALUES (16113,'!!!!!!!!!!!!!!', 2)
+insert into Alumno VALUES (16114,'***************', 3)
+insert into Alumno VALUES (16115,'""""""""""""""', 4)
 
 
 
