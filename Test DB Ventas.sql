@@ -1,7 +1,3 @@
-use master
-go
-
-drop database EjVenta
 create database EjVenta
 go
 
